@@ -1,0 +1,24 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "the GraphQL NightClazz project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhauspie/nightclazz-graphql.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "NodeJS",
+    "NightClazz"
+  ],
+  "author": "Logan HAUSPIE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhauspie/nightclazz-graphql/issues"
+  },
+  "homepage": "https://github.com/lhauspie/nightclazz-graphql#readme"
+}
