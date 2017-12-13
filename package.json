@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/lhauspie/nightclazz-graphql#readme",
   "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
     "graphql": "^0.11.7"
   }
 }
