@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "nightclazz-graphql",
   "version": "1.0.0",
   "description": "the GraphQL NightClazz project",
   "main": "index.js",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lhauspie/nightclazz-graphql/issues"
   },
-  "homepage": "https://github.com/lhauspie/nightclazz-graphql#readme"
+  "homepage": "https://github.com/lhauspie/nightclazz-graphql#readme",
+  "dependencies": {
+    "graphql": "^0.11.7"
+  }
 }
